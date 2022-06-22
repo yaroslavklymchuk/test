@@ -5,7 +5,7 @@ graphviz==0.14
 joblib==0.16.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 patsy==0.5.1
 plotly==4.8.2
