@@ -2,7 +2,7 @@ catboost==0.23.2
 category-encoders==2.2.2
 cycler==0.10.0
 graphviz==0.14
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
 numpy==1.19.0
